@@ -1,6 +1,7 @@
 {
   "name": "question-page",
   "version": "0.1.0",
+  "project": "question-page",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",

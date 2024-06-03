@@ -409,4 +409,14 @@ export default {
   height: 108px;
   display: block;
 }
+/* 小于600px */
+@media screen and (max-width: 600px) {
+  .el-message-box{
+    width: 80%;
+  }
+  .el-message{
+    width: 80%;
+    min-width: 100px;
+  }
+}
 </style>
